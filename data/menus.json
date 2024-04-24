@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e38b"
+  },
+  "category": "pizza",
+  "title": "Cheese",
+  "description": "mozzarella & parmesan",
+  "price": "8.50",
+  "img": "cheese1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e38c"
+  },
+  "category": "pizza",
+  "title": "Pepperoni",
+  "description": "mozzarella & pepperoni",
+  "price": "9.50",
+  "img": "pepperoni1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e38d"
+  },
+  "category": "pizza",
+  "title": "Margherita",
+  "description": "fresh tomatoes & basil",
+  "price": "10.00",
+  "img": "margheritaPizza1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e38e"
+  },
+  "category": "pizza",
+  "title": "Four Cheese",
+  "description": "mozzarella, parmesan, romano & pecorino",
+  "price": "11.00",
+  "img": "fourCheese1.png"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e38f"
+  },
+  "category": "pizza",
+  "title": "Veggie",
+  "description": "artichoke hearts & red onion",
+  "price": "11.00",
+  "img": "vegetarianPizza1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e390"
+  },
+  "category": "pizza",
+  "title": "Meat Lovers",
+  "description": "hot pepperoni & canadian bacon",
+  "price": "11.00",
+  "img": "meatLovers1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e391"
+  },
+  "category": "salad",
+  "title": "Garden",
+  "description": "iceburg lettuce & cherry tomatoes",
+  "price": "7.50",
+  "img": "gardenSalad1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e392"
+  },
+  "category": "salad",
+  "title": "Caesar",
+  "description": "romaine lettuce & anchovie dressing",
+  "price": "7.50",
+  "img": "caesarSalad1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e393"
+  },
+  "category": "salad",
+  "title": "Italian Pasta",
+  "description": "spiral pasta, black olives & red onion",
+  "price": "7.50",
+  "img": "pastaSalad1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e394"
+  },
+  "category": "dessert",
+  "title": "Cannoli",
+  "description": "ricotta cheese, chocolate & pistachios",
+  "price": "8.50",
+  "img": "cannoli1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e395"
+  },
+  "category": "dessert",
+  "title": "Cheesecake",
+  "description": "graham cracker crust with fruit topping",
+  "price": "8.50",
+  "img": "cheesecake1.jpg"
+},{
+  "_id": {
+    "$oid": "6579f8fa214371d496d4e396"
+  },
+  "category": "dessert",
+  "title": "Brownies",
+  "description": "fudge, walnuts & peanuts",
+  "price": "8.50",
+  "img": "brownies1.jpg"
+}]
